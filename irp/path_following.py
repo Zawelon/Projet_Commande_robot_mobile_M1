@@ -4,8 +4,10 @@ import matplotlib.animation as animation
 from threading import Timer
 from math import*
 
-################
+################################
 #Paramètre initial
+################################
+
 v = 5
 angle_initiale = np.radians(-90)
 omega = 0
